@@ -9,9 +9,9 @@
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 
-- 🌱 I’m currently studying for **Certified Ethical Hacker(CEHv12)**
+- 🌱 I’m currently studying for **Bug Bounty Hunting**
 
-- 💬 Ask me about **Linux / BASH / Windows / Hyprland / Hardware**
+- 💬 Ask me about **Linux / IoT / Windows / Hyprland / Hardware**
 
 - 🤝 I’m looking for help with **Linux**
 
