@@ -16,13 +16,13 @@ $ echo $MISSION
 
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%92;Linux+Power+User+%F0%9F%90%A7;Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 
-### ⚓️ Primary Pentesting Rig:
-<p align='center'>
+### ⚓️ Primary Pentesting Rig
+<p align='left'>
   <img src="https://img.shields.io/badge/Arch-f23224?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyprland-blue?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/core%20i7%2013th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
@@ -60,6 +60,7 @@ $ echo $MISSION
 ---
 
 <div align="center">
+  
 **"From fear to first bounty - the journey continues..."** 🎯
 
 [![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)](https://github.com/b1kr3m)
