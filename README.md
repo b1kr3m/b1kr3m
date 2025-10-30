@@ -6,9 +6,9 @@
 
 ```bash
 $ whoami
-bug_bounty_hunter_in_training
+62316b72336d
 $ uname -a
-Arch Linux | Hyprland | Security Focused
+Arch Linux | Hyprland | WebSec
 $ echo $MISSION
 "Making the web safer, one vulnerability at a time"
 ```
