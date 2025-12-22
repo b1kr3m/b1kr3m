@@ -20,6 +20,8 @@ $ echo $MISSION
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%92;Linux+Power+User+%F0%9F%90%A7;Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
+### 🧠 TryHackMe Profile
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/b1kr3m.png)](https://tryhackme.com/p/b1kr3m)
 
 ### ⚓️ Primary Pentesting Rig
 <p align='left'>
